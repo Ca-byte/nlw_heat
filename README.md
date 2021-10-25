@@ -40,4 +40,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 
- <small>Feito por Caroline Vieira com 💜 </small>
+ <small> Feito por Caroline Vieira com 💜 </small>
